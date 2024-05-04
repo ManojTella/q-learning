@@ -60,9 +60,12 @@ def q_learning(env,
 ```
 
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
+![Screenshot 2024-05-04 153425](https://github.com/ManojTella/q-learning/assets/94883876/b63a3653-2137-4356-8ffd-c5f9e52b4496)
+![Screenshot 2024-05-04 153442](https://github.com/ManojTella/q-learning/assets/94883876/d79381f7-45a6-46e4-9332-b9364e1d894b)
+![Screenshot 2024-05-04 153457](https://github.com/ManojTella/q-learning/assets/94883876/0b0008ce-0530-4c73-ac11-49aafb8461b3)
+![Screenshot 2024-05-04 153520](https://github.com/ManojTella/q-learning/assets/94883876/cc79a444-d038-419d-bfc7-57417d9a77fd)
+![Screenshot 2024-05-04 153534](https://github.com/ManojTella/q-learning/assets/94883876/cf103ea9-658e-49a2-b35f-a271e9c050b3)
 
-Include plot comparing the state value functions of Monte Carlo method and Qlearning.
 
 ## RESULT:
 Therefore a python program has been successfully developed to find the optimal policy for the given RL environment using Q-Learning and compared the state values with the Monte Carlo method.
